@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>𝙃𝙚𝙮 , 𝙄'𝙢 𝘼𝙢𝙖𝙣 𝙆𝙪𝙢𝙖𝙧</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>𝙃𝙚𝙮 , 𝙄'𝙢 𝘼𝙢𝙖𝙣 𝙆𝙪𝙢𝙖𝙧</b></h1>
 
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## <h1 align="center"><b>💼𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨</b></h1>
 
 <div align="center">
-	Highly skilled in Java,JavaScript, and  with a knack for solving complex problems through code. Proficient in front-end and back-end web development, with expertise in HTML, CSS, JavaScript, and frameworks like React and Node.js. Experience in building responsive, user-friendly websites and web applications.
+	<em>Highly skilled in Java,JavaScript, and  with a knack for solving complex problems through code. Proficient in front-end and back-end web development, with expertise in HTML, CSS, JavaScript, and frameworks like React and Node.js. Experience in building responsive, user-friendly websites and web applications.</em>
 	<br>
 	
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -59,7 +59,7 @@
 ## <h1 align="center"><b>👨‍💻𝙈𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </b></h1>
 
 <div><li>
-  <a href="https://github.com/amansinha0401/Shoes_Shopping">SHOES SHOPPING WEBSITE(E COMMERCE)</a>
+  <em><a href="https://github.com/amansinha0401/Shoes_Shopping">SHOES SHOPPING WEBSITE(E COMMERCE)</a></em>
   <br>
   <ul style="list-style: none; padding-left: 0;">
     <i>★ Tools & technologies used: React.js, Bootstrap, npm libraries.</br>
