@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Aman Kumar An enthusiastic, motivated student at Birla institute of technology ,Mesra <br> having a keen interest in the latest technologies.<br> Profound interest in Software development and Problem solving. <br>Can learn a new skill quickly and deliver results.. <br> 
+    Hello, I am Aman Kumar an enthusiastic, motivated student at Birla institute of technology ,Mesra <br> having a keen interest in the latest technologies.<br> Profound interest in Software development and Problem solving. <br>Can learn a new skill quickly and deliver results.. <br> 
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><h6 align="center">Let's Connect</h6>
   </em> 
   <div>
