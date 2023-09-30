@@ -95,7 +95,7 @@ web development.</br>
   <br>
   <ul style="list-style: none; padding-left: 0;">
     <i>★ Tools & technologies used: JavaScript.</br>
-    <i>★Fully functional game with different types of design and also contains a upadted ui interface.</br>
+    <i>★Fully functional game with different types of design and also contains an updated ui interface.</br>
   </ul>
 </li>
 
