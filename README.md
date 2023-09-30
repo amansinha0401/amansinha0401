@@ -11,7 +11,7 @@
 	  
 <div align='center'>
 <ul>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/aman-kumar-sinha04/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  amansinha0401-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="https://www.instagram.com/amansinha_555/" target="_blank">
