@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hey , I'm Aman Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>𝙃𝙚𝙮 , 𝙄'𝙢 𝘼𝙢𝙖𝙣 𝙆𝙪𝙢𝙖𝙧</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 
 
-## <h1 align="center"><b> 🛠️ My Skills</b></h1>
+## <h1 align="center"><b>💼𝙈𝙮 𝙎𝙠𝙞𝙡𝙡𝙨</b></h1>
 
 <div align="center">
 	Highly skilled in Java,JavaScript, and  with a knack for solving complex problems through code. Proficient in front-end and back-end web development, with expertise in HTML, CSS, JavaScript, and frameworks like React and Node.js. Experience in building responsive, user-friendly websites and web applications.
@@ -56,7 +56,7 @@
 
 
 
-## <h1 align="center"><b> My Projects </b></h1>
+## <h1 align="center"><b>👨‍💻𝙈𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </b></h1>
 
 <div><li>
   <a href="https://github.com/amansinha0401/Shoes_Shopping">SHOES SHOPPING WEBSITE(E COMMERCE)</a>
