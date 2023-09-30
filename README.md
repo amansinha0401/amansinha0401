@@ -1,7 +1,28 @@
 
 <h1 align="center"><b>Hey , I'm Aman Kumar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 
+
+<p align="center">
+  <em>
+    Hello, I am Aman Kumar An enthusiastic, motivated student at Birla institute of technology ,Mesra <br> having a keen interest in the latest technologies.<br> Profound interest in Software development and Problem solving. <br>Can learn a new skill quickly and deliver results.. <br> 
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><h6 align="center">Let's Connect</h6>
+  </em> 
+  <div>
+	  
+<div align='center'>
+<ul>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  amansinha0401-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="https://www.instagram.com/amansinha_555/" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  amansinha_555-%2300acee.svg?color=darkblue&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+<a href="mailto:amansinha0401@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  amansinha0401-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+<br>
+  </div>
+<br><br>
 
 
 <br>
@@ -24,11 +45,10 @@
 <br><br>
 
 
-## <b> 🛠️ My Skills</b>
+## <h1 align="center"><b> 🛠️ My Skills</b></h1>
 <br>
-
 <p align="center">
-
+	
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-brown.svg?style=for-the-badge&logo=HTML&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -43,35 +63,16 @@
 ![Figma](https://img.shields.io/badge/figma-maroon.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-31A8FF.svg?style=for-the-badge&logo=Render&logoColor=white)
-
-
-
 <br>
 <br>
 
-## <b> My Projects </b>
 
 
-<li>🔥Streak Stats</li>
-<li>🔥Streak Stats</li>
-<li>🔥Streak Stats</li>
 
-
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b>🏬 Let's Connect..!</b>
+## <h1 align="center"><c> Let's Connect</c></h1>
 <br>
 <div align='center'>
-
 <ul>
-
-
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  amansinha0401-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
@@ -81,10 +82,50 @@
 <a href="mailto:amansinha0401@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  amansinha0401-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+<br>
+</div>
+
+## <h1 align="center"><b> My Projects </b></h1>
+
+<div><li>
+  <a href="https://github.com/amansinha0401/Shoes_Shopping">SHOES SHOPPING WEBSITE(E COMMERCE)</a>
+  <br>
+  <ul style="list-style: none; padding-left: 0;">
+    <i>★ Tools & technologies used: React.js, Bootstrap, npm libraries.</br>
+    <i>★ Implemented various updated features in the front end.</br>
+    <i>★ Seamlessly integrated frontend and backend functionalities to deliver an intuitive user experience.</br>
+  </ul>
+</li>
+
+<li>
+  <a href="https://github.com/amansinha0401/Library_mangement_system">Library Management System Web App</a>
+  <br>
+  <ul style="list-style: none; padding-left: 0;">
+    <i>★ Tools & technologies used: MERN Stack (MongoDB, Express.js, React.js, Node.js).</br>
+    <i>★ Implemented (CRUD CREATE , READ , UPDATE, DELETE) operations.</br>
+    <i>★ Strengthened skills in full-stack development, database management, and responsive design while addressing resource organization and user experience.</br>
+  </ul>
+</li>
+</div>
+
+
+<li>
+  <a href="https://github.com/amansinha0401/Portfoliodemo">The Portfolio Web App</a>
+  <br>
+  <ul style="list-style: none; padding-left: 0;">
+    <i>★ Tools & technologies used: HTML, CSS, and JavaScript.</br>
+    <i>★ Experience immersive designs, responsive layouts, and interactive applications that reflect my passion for
+web development.</br>
+  </ul>
+</li>
+
 
 <br>
+<br>
 
-</div>
+
+
+
 
 
 
