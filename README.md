@@ -91,7 +91,7 @@ web development.</br>
 </li>
 
 <li>
-  <a href="https://github.com/amansinha0401/TICTAKTOE">Tic-Tak-Toe Game</a>
+  <a href="https://github.com/amansinha0401/TICTAKTOE">Tic-Tac-Toe Game</a>
   <br>
   <ul style="list-style: none; padding-left: 0;">
     <i>★ Tools & technologies used: JavaScript.</br>
