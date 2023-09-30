@@ -22,32 +22,16 @@
 </a>
 <br>
   </div>
-<br><br>
-
-
 <br>
 
 
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
 
 
 ## <h1 align="center"><b> 🛠️ My Skills</b></h1>
-<br>
-<p align="center">
+
+<div align="center">
+	Highly skilled in Java,JavaScript, and  with a knack for solving complex problems through code. Proficient in front-end and back-end web development, with expertise in HTML, CSS, JavaScript, and frameworks like React and Node.js. Experience in building responsive, user-friendly websites and web applications.
+	<br>
 	
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-brown.svg?style=for-the-badge&logo=HTML&logoColor=%23F7DF1E) 
@@ -63,27 +47,14 @@
 ![Figma](https://img.shields.io/badge/figma-maroon.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-31A8FF.svg?style=for-the-badge&logo=Render&logoColor=white)
-<br>
-<br>
-
-
-
-
-## <h1 align="center"><c> Let's Connect</c></h1>
-<br>
-<div align='center'>
-<ul>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  amansinha0401-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="https://www.instagram.com/amansinha_555/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  amansinha_555-%2300acee.svg?color=darkblue&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-<a href="mailto:amansinha0401@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  amansinha0401-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-<br>
 </div>
+<br>
+<br>
+
+
+
+
+
 
 ## <h1 align="center"><b> My Projects </b></h1>
 
