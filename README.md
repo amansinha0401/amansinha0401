@@ -90,6 +90,15 @@ web development.</br>
   </ul>
 </li>
 
+<li>
+  <a href="https://github.com/amansinha0401/TICTAKTOE">Tic-Tak-Toe Game</a>
+  <br>
+  <ul style="list-style: none; padding-left: 0;">
+    <i>★ Tools & technologies used: JavaScript.</br>
+    <i>★Fully functional game with different types of design and also contains a upadted ui interface.</br>
+  </ul>
+</li>
+
 
 <br>
 <br>
